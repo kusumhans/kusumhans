@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi 👋, I'm Kusum
+Frontend Developer | ReactJS & Tailwind Specialist
+Creating Responsive, Scalable & Engaging Web Experiences
+Proven Impact on Performance, Accessibility & User Engagement | CSE’24
 
-<!--
-**kusumhans/kusumhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 About Me
+📍 From Palwal, Haryana, India
+💻 Currently improving my React skills and building modern UIs
+🌱 Exploring Next.js, Framer Motion, and UI animations
+💬 Ask me about ReactJS, TailwindCSS, and Frontend Architecture
+📫 Reach me at kusumhansbaghel007@gmail.com
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+🔹 Portfolio Website — Designed with TailwindCSS & React for clean UI/UX.
+🔹 UI Component Library (in progress) — Building reusable components with Tailwind & Framer Motion.
+🔹 Spotify Clone UI — Replicating modern design with responsive layouts & animations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Fun Facts
+✨ I love designing pixel-perfect UI components.
+⚡ I believe “Clean UI = Better UX = Happy Users”.
+🎯 Goal for 2025: Contribute to Open Source Projects and build a SaaS Dashboard UI.
+
+💙 Thank you for visiting my profile! Keep building, keep learning.
