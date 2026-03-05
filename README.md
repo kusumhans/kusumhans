@@ -9,15 +9,17 @@ ________________________________________________________________________________
 
 ## 🌐 Socials
 
-<p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-username">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/kusum-hans/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-<a href="https://github.com/your-github-username">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"/>
+
+<a href="https://github.com/kusumhans" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
-<a href="mailto:lubexample@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge"/>
+
+<a href="mailto:"kusumhansbaghel007@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 </p>
 ____________________________________________________________________________________________________________________ 
