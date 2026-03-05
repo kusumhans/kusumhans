@@ -38,6 +38,10 @@ ________________________________________________________________________________
 
 A modern React-based E-commerce web application that provides a seamless online shopping experience with responsive UI and dynamic product management.
 
+🔗 Live Demo: https://ecommerce-react-one-dun.vercel.app/
+📂 GitHub Repo: https://github.com/kusumhans/Ecommerce-react
+
+
 ✨ Features
 
 🏠 Product Listing Page <br/> 
@@ -56,6 +60,23 @@ ________________________________________________________________________________
 ✅ Todo Application
 
 A simple and efficient task management application built with modern frontend technologies to help users organize their daily tasks.
+
+✅ Todo Application Using React
+
+🔗 Live Demo:https://todo-app-seven-tau-23.vercel.app/
+📂 GitHub Repo: https://github.com/kusumhans/TODO-APP
+
+
+✅ Todo Application Using React
+
+🔗 Live Demo:https://vercel.com/kusumhans-projects/todo-app-using-react
+📂 GitHub Repo: https://github.com/kusumhans/Todo-app-using-react
+
+
+✅ Todo Application Using Redux Toolkit
+
+🔗 Live Demo:(https://todo-app-using-redux-toolkit-ruby.vercel.app/)
+📂 GitHub Repo: https://github.com/kusumhans/Todo-App-using-Redux-Toolkit
 
 ✨ Features
 
