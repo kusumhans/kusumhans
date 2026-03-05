@@ -1,17 +1,16 @@
              Hi 👋, I'm Kusum
-                                                                                  
-Frontend Developer | ReactJS & Tailwind Specialist <br/>
-Creating Responsive, Scalable & Engaging Web Experiences
-Proven Impact on Performance, Accessibility & User Engagement | CSE’24
-
 _____________________________________________________________________________________________________________________
-           🌍 About Me
-                                                          
-📍 From Palwal, Haryana, India
-💻 Currently improving my React skills and building modern UIs
-🌱 Exploring Next.js, Framer Motion, and UI animations
-💬 Ask me about ReactJS, TailwindCSS, and Frontend Architecture
-📫 Reach me at kusumhansbaghel007@gmail.com
+         
+           🌍 About Me             
+ 
+💻 Skilled in ReactJS, JavaScript, Tailwind CSS, and Bootstrap      
+📚 Continuously learning new technologies to improve my development skills
+👯 Looking to collaborate on: Real-world frontend or full-stack projects
+🤝 Looking for: Internship or entry-level opportunities to gain industry experience
+💬 Ask me about: My frontend development journey, React projects, and learning process
+🎨 Focused on creating clean UI, responsive design, and smooth user experiences
+🚀 Interested in building scalable and performance-optimized web applications
+
 _____________________________________________________________________________________________________________________
            
           🌐 Socials:
@@ -31,32 +30,66 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/vercel-black?logo=vercel&style=for-the-badge" alt="Vercel Badge"/>
 </a>
 </p>
-_______________________________________________________________________________________________________________
-           
-           🌍 About Me
-                                                          
-📍 From Palwal, Haryana, India
-💻 Currently improving my React skills and building modern UIs
-🌱 Exploring Next.js, Framer Motion, and UI animations
-💬 Ask me about ReactJS, TailwindCSS, and Frontend Architecture
-📫 Reach me at kusumhansbaghel007@gmail.com
+_________________________________________________________________________________________________________________                    
 
-____________________________________________________________________________________________________________________                    
-
-        🚀 Featured Projects
+        🚀 Projects
                                                                                           
-🔹 Portfolio Website — Designed with TailwindCSS & React for clean UI/UX.
-🔹 UI Component Library (in progress) — Building reusable components with Tailwind & Framer Motion.
-🔹 Spotify Clone UI — Replicating modern design with responsive layouts & animations.
+🛒 Web E-commerce App
+
+A modern React-based E-commerce web application that provides a seamless online shopping experience with responsive UI and dynamic product management.
+
+✨ Features
+
+🏠 Product Listing Page 
+🔎 Product Details
+🛍 Add to Cart
+🗑 Remove from Cart
+🔢 Quantity Management
+📱 Responsive Design
+⚡ Clean and user-friendly shopping flow
+🎨Designed with scalability in mind
+
+🎨 Modern UI – Styled with TailwindCSS for a clean and engaging interface.
+
+🛠 Tech Stack,
+React.js, JavaScript (ES6+), Tailwind CSS, React Router, Vite, vercel
+_______________________________________________________________________________________________________________
+
+✅ Todo Application
+
+A simple and efficient task management application built with modern frontend technologies to help users organize their daily tasks.
+
+✨ Features
+
+➕ Add new tasks easily
+✏️ Edit existing tasks
+✅ Mark tasks as completed
+🗑 Delete tasks
+📋 Display task list dynamically
+⚡ Fast and responsive user interface
+
+⚡ Fast and responsive user interface
+
+🛠 Tech Stack
+
+HTML, CSS / Tailwind CSS, JavaScript, React, Redux Toolkit, Vite
+_______________________________________________________________________________________________________________
+
+📊 GitHub Stats:
+
+<img src="https://camo.githubusercontent.com/668ea9160c4f81eb929bcd6c891a4dc06a5e3c867827633f0a361b583c9cf9b6/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d3134616e6a616c69267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=14anjali&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
 
 _______________________________________________________________________________________________________________
+
 
           🧩 Fun Facts
                                                                                                   
 ✨ I love designing pixel-perfect UI components.
 ⚡ I believe “Clean UI = Better UX = Happy Users”.
-🎯 Goal for 2025: Contribute to Open Source Projects and build a SaaS Dashboard UI.
+🎯 Goal for 2026: Contribute to Open Source Projects.
 
                                                                  
 
                           💙 Thank you for visiting my profile! Keep building, keep learning.
+                                             💡 *“Always learning, always building.”*
+
