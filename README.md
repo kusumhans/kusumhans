@@ -10,9 +10,10 @@ ________________________________________________________________________________
 ## 🌐 Socials
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kusum-hans/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
 </a>
+</p>
 
 <a href="https://github.com/kusumhans" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
