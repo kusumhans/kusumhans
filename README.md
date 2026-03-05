@@ -1,6 +1,6 @@
              Hi 👋, I'm Kusum
                                                                                   
-Frontend Developer | ReactJS & Tailwind Specialist
+Frontend Developer | ReactJS & Tailwind Specialist <br/>
 Creating Responsive, Scalable & Engaging Web Experiences
 Proven Impact on Performance, Accessibility & User Engagement | CSE’24
 
