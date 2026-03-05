@@ -3,6 +3,15 @@
 Frontend Developer | ReactJS & Tailwind Specialist
 Creating Responsive, Scalable & Engaging Web Experiences
 Proven Impact on Performance, Accessibility & User Engagement | CSE’24
+
+_____________________________________________________________________________________________________________________
+           🌍 About Me
+                                                          
+📍 From Palwal, Haryana, India
+💻 Currently improving my React skills and building modern UIs
+🌱 Exploring Next.js, Framer Motion, and UI animations
+💬 Ask me about ReactJS, TailwindCSS, and Frontend Architecture
+📫 Reach me at kusumhansbaghel007@gmail.com
 _____________________________________________________________________________________________________________________
            
           🌐 Socials:
