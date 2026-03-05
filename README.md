@@ -1,5 +1,6 @@
              Hi 👋, I'm Kusum
-             
+____________________________________________________________________________________________________________________
+     
            🌍 About Me             
  
 💻 Skilled in ReactJS, JavaScript, Tailwind CSS, and Bootstrap <br/> 
@@ -18,7 +19,7 @@ ________________________________________________________________________________
 <a href="mailto:kusumhansbaghel007@gmail.com"><img src="https://camo.githubusercontent.com/52a173d8eb1942dd9c9935c180ec74ddca5d4b1effc68328e75705d2d55aa451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
 ____________________________________________________________________________________________________________________ 
 
-💻 Tech Stack:
+       💻 Tech Stack:
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f1b0ba4fa782af96fd436adcddc8716248a6b5c93d78c8ad742611357bed209/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
@@ -34,8 +35,8 @@ ________________________________________________________________________________
 
 A modern React-based E-commerce web application that provides a seamless online shopping experience with responsive UI and dynamic product management.
 
-🔗 Live Demo: https://ecommerce-react-one-dun.vercel.app/
-📂 GitHub Repo: https://github.com/kusumhans/Ecommerce-react
+🔗 Live Demo: https://ecommerce-react-one-dun.vercel.app/<br/>
+📂 GitHub Repo: https://github.com/kusumhans/Ecommerce-react<br/>
 
 
 ✨ Features
@@ -88,7 +89,7 @@ A simple and efficient task management application built with modern frontend te
 HTML, CSS / Tailwind CSS, JavaScript, React, Redux Toolkit, Vite
 _______________________________________________________________________________________________________________
 
-📊 GitHub Stats:
+    📊 GitHub Stats:
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=kusumhans&theme=dark&hide_border=false" />
 
