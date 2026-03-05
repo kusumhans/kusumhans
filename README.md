@@ -1,6 +1,5 @@
              Hi 👋, I'm Kusum
-_____________________________________________________________________________________________________________________
-         
+             
            🌍 About Me             
  
 💻 Skilled in ReactJS, JavaScript, Tailwind CSS, and Bootstrap <br/> 
@@ -15,8 +14,6 @@ ________________________________________________________________________________
            
           🌐 Socials:
 
-## 🌐 Socials
-
 <p dir="auto"><a href="https://www.linkedin.com/in/kusum-hans/" rel="nofollow"><img src="https://camo.githubusercontent.com/bd67bf4d79a3a9f301799e4b5e995861815cbc375f48be946a45b10ff28fc54a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:kusumhansbaghel007@gmail.com"><img src="https://camo.githubusercontent.com/52a173d8eb1942dd9c9935c180ec74ddca5d4b1effc68328e75705d2d55aa451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
 ____________________________________________________________________________________________________________________ 
@@ -30,7 +27,6 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/vercel-black?logo=vercel&style=for-the-badge" alt="Vercel Badge"/>
 </a>
 </p>
-_________________________________________________________________________________________________________________                    
 
         🚀 Projects
                                                                                           
@@ -63,20 +59,20 @@ A simple and efficient task management application built with modern frontend te
 
 ✅ Todo Application Using React
 
-🔗 Live Demo:https://todo-app-seven-tau-23.vercel.app/
-📂 GitHub Repo: https://github.com/kusumhans/TODO-APP
+🔗 Live Demo:https://todo-app-seven-tau-23.vercel.app/<br/>
+📂 GitHub Repo: https://github.com/kusumhans/TODO-APP<br/>
 
 
 ✅ Todo Application Using React
 
-🔗 Live Demo:https://vercel.com/kusumhans-projects/todo-app-using-react
-📂 GitHub Repo: https://github.com/kusumhans/Todo-app-using-react
+🔗 Live Demo:https://vercel.com/kusumhans-projects/todo-app-using-react<br/>
+📂 GitHub Repo: https://github.com/kusumhans/Todo-app-using-react<br/>
 
 
 ✅ Todo Application Using Redux Toolkit
 
-🔗 Live Demo:(https://todo-app-using-redux-toolkit-ruby.vercel.app/)
-📂 GitHub Repo: https://github.com/kusumhans/Todo-App-using-Redux-Toolkit
+🔗 Live Demo:(https://todo-app-using-redux-toolkit-ruby.vercel.app/)<br/>
+📂 GitHub Repo: https://github.com/kusumhans/Todo-App-using-Redux-Toolkit<br/>
 
 ✨ Features
 
