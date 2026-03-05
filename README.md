@@ -3,13 +3,13 @@ ________________________________________________________________________________
          
            🌍 About Me             
  
-💻 Skilled in ReactJS, JavaScript, Tailwind CSS, and Bootstrap      
-📚 Continuously learning new technologies to improve my development skills
-👯 Looking to collaborate on: Real-world frontend or full-stack projects
-🤝 Looking for: Internship or entry-level opportunities to gain industry experience
-💬 Ask me about: My frontend development journey, React projects, and learning process
-🎨 Focused on creating clean UI, responsive design, and smooth user experiences
-🚀 Interested in building scalable and performance-optimized web applications
+💻 Skilled in ReactJS, JavaScript, Tailwind CSS, and Bootstrap <br/> 
+📚 Continuously learning new technologies to improve my development skills<br/> 
+👯 Looking to collaborate on: Real-world frontend or full-stack projects<br/> 
+🤝 Looking for: Internship or entry-level opportunities to gain industry experience<br/> 
+💬 Ask me about: My frontend development journey, React projects, and learning process<br/> 
+🎨 Focused on creating clean UI, responsive design, and smooth user experiences<br/> 
+🚀 Interested in building scalable and performance-optimized web applications<br/> 
 
 _____________________________________________________________________________________________________________________
            
@@ -40,15 +40,13 @@ A modern React-based E-commerce web application that provides a seamless online 
 
 ✨ Features
 
-🏠 Product Listing Page 
-🔎 Product Details
-🛍 Add to Cart
-🗑 Remove from Cart
-🔢 Quantity Management
-📱 Responsive Design
-⚡ Clean and user-friendly shopping flow
-🎨Designed with scalability in mind
-
+🏠 Product Listing Page <br/> 
+🔎 Product Details<br/> 
+🛍 Add to Cart<br/> 
+🗑 Remove from Cart<br/> 
+🔢 Quantity Management<br/> 
+📱 Responsive Design<br/> 
+⚡ Clean and user-friendly shopping flow<br/> 
 🎨 Modern UI – Styled with TailwindCSS for a clean and engaging interface.
 
 🛠 Tech Stack,
@@ -61,14 +59,12 @@ A simple and efficient task management application built with modern frontend te
 
 ✨ Features
 
-➕ Add new tasks easily
-✏️ Edit existing tasks
-✅ Mark tasks as completed
-🗑 Delete tasks
-📋 Display task list dynamically
-⚡ Fast and responsive user interface
-
-⚡ Fast and responsive user interface
+➕ Add new tasks easily<br/> 
+✏️ Edit existing tasks<br/> 
+✅ Mark tasks as completed<br/> 
+🗑 Delete tasks<br/> 
+📋 Display task list dynamically<br/> 
+⚡ Fast and responsive user interface<br/> 
 
 🛠 Tech Stack
 
@@ -77,16 +73,16 @@ ________________________________________________________________________________
 
 📊 GitHub Stats:
 
-<img src="https://camo.githubusercontent.com/668ea9160c4f81eb929bcd6c891a4dc06a5e3c867827633f0a361b583c9cf9b6/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d3134616e6a616c69267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=14anjali&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
+<img src="https://nirzak-streak-stats.vercel.app/?user=kusumhans&theme=dark&hide_border=false" />
 
 _______________________________________________________________________________________________________________
 
 
           🧩 Fun Facts
                                                                                                   
-✨ I love designing pixel-perfect UI components.
-⚡ I believe “Clean UI = Better UX = Happy Users”.
-🎯 Goal for 2026: Contribute to Open Source Projects.
+✨ I love designing pixel-perfect UI components.<br/> 
+⚡ I believe “Clean UI = Better UX = Happy Users”.<br/> 
+🎯 Goal for 2026: Contribute to Open Source Projects.<br/> 
 
                                                                  
 
