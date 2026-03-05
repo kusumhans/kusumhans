@@ -1,13 +1,18 @@
-                                                            Hi 👋, I'm Kusum
-                          ___________________________________________________________________________________________-
+             Hi 👋, I'm Kusum
                                                                                   
-                                       Frontend Developer | ReactJS & Tailwind Specialist
-                                     Creating Responsive, Scalable & Engaging Web Experiences
-                                Proven Impact on Performance, Accessibility & User Engagement | CSE’24
+Frontend Developer | ReactJS & Tailwind Specialist
+Creating Responsive, Scalable & Engaging Web Experiences
+Proven Impact on Performance, Accessibility & User Engagement | CSE’24
 _____________________________________________________________________________________________________________________
            
-           🌍 About Me
+          🌐 Socials:
+
+          
 ____________________________________________________________________________________________________________________ 
+
+_______________________________________________________________________________________________________________
+           
+           🌍 About Me
                                                           
 📍 From Palwal, Haryana, India
 💻 Currently improving my React skills and building modern UIs
