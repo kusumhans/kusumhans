@@ -50,7 +50,8 @@ A modern React-based E-commerce web application that provides a seamless online 
 ⚡ Clean and user-friendly shopping flow<br/> 
 🎨 Modern UI – Styled with TailwindCSS for a clean and engaging interface.
 
-🛠 Tech Stack,
+🛠 Tech Stack
+
 React.js, JavaScript (ES6+), Tailwind CSS, React Router, Vite, vercel
 _______________________________________________________________________________________________________________
 
@@ -58,7 +59,7 @@ ________________________________________________________________________________
 
 A simple and efficient task management application built with modern frontend technologies to help users organize their daily tasks.
 
-✅ Todo Application Using React
+✅ Todo Application Using Html, css, javascript
 
 🔗 Live Demo:https://todo-app-seven-tau-23.vercel.app/<br/>
 📂 GitHub Repo: https://github.com/kusumhans/TODO-APP<br/>
@@ -101,6 +102,8 @@ ________________________________________________________________________________
 ✨ I love designing pixel-perfect UI components.<br/> 
 ⚡ I believe “Clean UI = Better UX = Happy Users”.<br/> 
 🎯 Goal for 2026: Contribute to Open Source Projects.<br/> 
+
+
 
                                                                  
 
